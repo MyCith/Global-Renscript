@@ -18,7 +18,13 @@ This is the official and protected global loadstring for Renscript - ZeroUI.
 
 Do not attempt to re-upload or steal this script. Any copied versions are unauthorized and unsupported.
 
-# ✏️Notes for beta Version
+# ✴️ Disclaimer
+
+This script is created for educational and development purposes.
+
+Use at your own discretion. The creator assumes no responsibility for misuse or actions taken against your Roblox account...
+
+# ✏️ Notes for beta Version
 
 This script is in Beta, version 1.0.2.
 
